@@ -1,11 +1,14 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('images/Letto-matrimoniale1.jpg');
-  min-height: 707px;
-  background-position: 50% 50%;
+  background-position: 50% 100%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 753px;
 }
 
 .u-section-1 .u-group-1 {
-  width: calc(((100% - 1140px) / 2)  + 865px);
+  width: 915px;
   min-height: 175px;
   height: auto;
   background-image: none;
@@ -14,12 +17,13 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 452px 0 60px auto;
+  margin: 498px -50px 60px auto;
 }
 
 .u-section-1 .u-container-layout-1 {
   padding-left: 30px;
   padding-right: 30px;
+  padding-bottom: 0;
 }
 
 .u-section-1 .u-text-1 {
@@ -27,12 +31,11 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    min-height: 583px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 621px;
   }
 
   .u-section-1 .u-group-1 {
-    width: calc(((100% - 940px) / 2) + 865px);
     height: auto;
   }
 
@@ -43,22 +46,23 @@
 }
 
 @media (max-width: 991px) {
-   .u-section-1 {
-    min-height: 447px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 476px;
   }
 
   .u-section-1 .u-group-1 {
-    width: calc(((100% - 720px) / 2) + 720px);
+    width: 720px;
+    margin-right: 0;
   }
 }
 
 @media (max-width: 767px) {
-   .u-section-1 {
-    min-height: 335px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 357px;
   }
 
   .u-section-1 .u-group-1 {
-    width: calc(((100% - 540px) / 2) + 540px);
+    width: 540px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -68,14 +72,13 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-1 {
-    min-height: 708px;
+  .u-section-1 .u-sheet-1 {
+    min-height: 225px;
   }
 
   .u-section-1 .u-group-1 {
-    width: calc(((100% - 340px) / 2)  + 292px);
-    min-height: 165px;
     margin-top: 483px;
+    width: 340px;
   }
 
   .u-section-1 .u-text-1 {
@@ -182,6 +185,96 @@
   padding: 30px;
 }
 
+.u-section-2 .u-carousel-item-8 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-over-slide-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-2 .u-carousel-item-9 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-over-slide-9 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-2 .u-gallery-item-10 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-over-slide-10 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-2 .u-gallery-item-11 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-over-slide-11 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-2 .u-gallery-item-12 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-over-slide-12 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-2 .u-gallery-item-13 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-over-slide-13 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-2 .u-gallery-item-14 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-over-slide-14 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-2 .u-gallery-item-15 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-over-slide-15 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-2 .u-gallery-item-16 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-over-slide-16 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
+.u-section-2 .u-gallery-item-17 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-over-slide-17 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 30px;
+}
+
 .u-section-2 .u-carousel-control-1 {
   position: absolute;
   left: 10px;
@@ -246,11 +339,6 @@
     width: auto;
   }
 
-  .u-section-2 .u-carousel-item-1 {
-    height: 648px;
-    margin-left: 0;
-  }
-
   .u-section-2 .u-btn-2 {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -287,7 +375,7 @@
   }
 
   .u-section-2 .u-btn-2 {
-    margin-top: -291px;
+    margin-top: 31px;
     margin-bottom: 60px;
   }
 }
