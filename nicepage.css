@@ -43359,12 +43359,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 103px;
+    min-height: 84px;
   }
 
   .u-footer .u-text-1 {
-    width: 340px;
-    margin-top: 10px;
+    width: auto;
+    margin: 20px 0 39px;
   }
 }
 
