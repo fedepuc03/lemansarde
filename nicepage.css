@@ -28569,8 +28569,8 @@ section.u-palette-1-light-2:before,
 .u-field-input.u-palette-1-light-2,
 .u-button-style.u-palette-1-light-2,
 .u-button-style.u-palette-1-light-2[class*="u-border-"] {
-  color: #111111 !important;
-  background-color: #adcce9 !important;
+  color: #ffffff !important;
+  background-color: #478AC9 !important;
 }
 .u-button-style.u-palette-1-light-2:hover,
 .u-button-style.u-palette-1-light-2[class*="u-border-"]:hover,
@@ -38673,7 +38673,7 @@ li.active > a.u-button-style.u-text-palette-1-dark-1,
 li.active > a.u-button-style.u-text-palette-1-dark-1[class*="u-border-"],
 a.u-button-style.u-text-palette-1-dark-1,
 a.u-button-style.u-text-palette-1-dark-1[class*="u-border-"] {
-  color: #4c7397 !important;
+  color: #4c7397;
 }
 a.u-button-style.u-text-palette-1-dark-1:hover,
 a.u-button-style.u-text-palette-1-dark-1[class*="u-border-"]:hover,
