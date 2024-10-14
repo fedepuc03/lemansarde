@@ -24685,7 +24685,7 @@ a.u-button-style.u-border-1 {
 .u-input.u-border-2,
 .u-field-input.u-field-input.u-border-2,
 a.u-button-style.u-border-2 {
-  border-width: 2px;
+  border-width: 0px;
 }
 .u-shape-svg.u-border-2 {
   stroke-width: 2px;
